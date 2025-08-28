@@ -13,7 +13,7 @@ import asyncio
 app = Flask(__name__)
 
 # CONFIG
-VIRUSTOTAL_API_KEY = "ffbc3e4aa3244075b443648bb3bea48db17bc691623e00016075717a3160c055"
+VIRUSTOTAL_API_KEY = "YOUR KEY"
 OLLAMA_MODEL = "llama3.2:3b"
 SCAN_INTERVAL = 5
 LOG_FILE = "risk_analysis.log"
@@ -120,3 +120,4 @@ def scan_ports():
 
 if __name__ == '__main__':
     app.run(debug=True, threaded=True, host='0.0.0.0', port=5000)
+
