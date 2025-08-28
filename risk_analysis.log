@@ -1,0 +1,1598 @@
+[2025-04-28 01:05:44] [VT] Checking VirusTotal for: System
+[2025-04-28 01:05:49] [VT] Checking VirusTotal for: Registry
+[2025-04-28 01:05:53] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 01:05:57] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 01:06:02] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 01:06:06] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 01:06:11] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 01:06:15] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 01:06:15] [VT] Checking VirusTotal for: System
+[2025-04-28 01:06:21] [VT] Checking VirusTotal for: Registry
+[2025-04-28 01:06:22] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 01:06:24] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 01:07:43] [VT] Checking VirusTotal for: f6b34118080e2490a1e216658c8e3dfc3a1479d508b5b84a73004b4d263f08a2
+[2025-04-28 01:08:01] [VT] Checking VirusTotal for: f6b34118080e2490a1e216658c8e3dfc3a1479d508b5b84a73004b4d263f08a2
+[2025-04-28 09:06:17] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 09:12:36] [VT] Checking VirusTotal for: System
+[2025-04-28 09:12:45] [VT] Checking VirusTotal for: Registry
+[2025-04-28 09:12:49] [VT] Checking VirusTotal for: powershell.exe
+[2025-04-28 09:12:54] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 09:12:59] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 09:13:03] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-04-28 09:13:08] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 09:13:12] [VT] Checking VirusTotal for: audiodg.exe
+[2025-04-28 09:13:17] [VT] Checking VirusTotal for: Copilot.exe
+[2025-04-28 09:13:21] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 09:13:25] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 09:13:31] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 09:13:35] [VT] Checking VirusTotal for: cncmd.exe
+[2025-04-28 09:13:39] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 09:13:45] [VT] Checking VirusTotal for: conhost.exe
+[2025-04-28 09:13:50] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 09:13:56] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 09:14:02] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 09:14:07] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 09:14:12] [VT] Checking VirusTotal for: dasHost.exe
+[2025-04-28 09:14:16] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-04-28 09:14:21] [VT] Checking VirusTotal for: PowerToys.PowerLauncher.exe
+[2025-04-28 09:14:27] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-04-28 09:14:32] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-04-28 09:14:39] [VT] Checking VirusTotal for: PowerToys.ZoomIt.exe
+[2025-04-28 09:14:46] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-04-28 09:14:54] [VT] Checking VirusTotal for: MemCompression
+[2025-04-28 09:14:58] [VT] Checking VirusTotal for: NhNotifSys.exe
+[2025-04-28 09:15:07] [VT] Checking VirusTotal for: MicrosoftEdgeUpdate.exe
+[2025-04-28 09:15:13] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-04-28 09:15:18] [VT] Checking VirusTotal for: wlanext.exe
+[2025-04-28 09:15:23] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-04-28 09:15:32] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-04-28 09:15:36] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-04-28 09:15:44] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-04-28 09:15:49] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-04-28 09:15:57] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-04-28 09:16:02] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-04-28 09:16:07] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-04-28 09:16:12] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-04-28 09:16:18] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-04-28 09:16:24] [VT] Checking VirusTotal for: Code.exe
+[2025-04-28 09:16:29] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-28 09:16:34] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-04-28 09:16:39] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-04-28 09:16:43] [VT] Checking VirusTotal for: Widgets.exe
+[2025-04-28 09:16:48] [VT] Checking VirusTotal for: PowerToys.Peek.UI.exe
+[2025-04-28 09:16:53] [VT] Checking VirusTotal for: LenovoVantage-(GenericMessagingAddin).exe
+[2025-04-28 09:16:59] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-04-28 09:17:06] [VT] Checking VirusTotal for: NisSrv.exe
+[2025-04-28 09:17:16] [VT] Checking VirusTotal for: OneDrive.exe
+[2025-04-28 09:17:21] [VT] Checking VirusTotal for: ShellExperienceHost.exe
+[2025-04-28 09:17:32] [VT] Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-04-28 09:17:39] [VT] Checking VirusTotal for: msedge.exe
+[2025-04-28 09:17:45] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 09:17:50] [VT] Checking VirusTotal for: LenovoVantage-(VantageCoreAddin).exe
+[2025-04-28 09:17:56] [VT] Checking VirusTotal for: AMDRSSrcExt.exe
+[2025-04-28 09:18:02] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-04-28 09:18:07] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-04-28 09:18:13] [VT] Checking VirusTotal for: unsecapp.exe
+[2025-04-28 09:18:17] [VT] Checking VirusTotal for: PowerToys.Awake.exe
+[2025-04-28 09:18:22] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-04-28 09:18:30] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-04-28 09:18:35] [VT] Checking VirusTotal for: SecurityHealthService.exe
+[2025-04-28 09:25:21] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 09:26:07] [VT] Checking VirusTotal for: System
+[2025-04-28 09:26:12] [VT] Checking VirusTotal for: Registry
+[2025-04-28 09:26:16] [VT] Checking VirusTotal for: powershell.exe
+[2025-04-28 09:26:20] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 09:26:26] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-04-28 09:33:29] [VT] Checking VirusTotal for: System
+[2025-04-28 09:33:39] [VT] Checking VirusTotal for: Registry
+[2025-04-28 09:33:43] [VT] Checking VirusTotal for: powershell.exe
+[2025-04-28 09:33:47] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 09:33:52] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-04-28 09:33:57] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 09:34:02] [VT] Checking VirusTotal for: Copilot.exe
+[2025-04-28 09:34:07] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 09:34:12] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 09:34:17] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 09:34:21] [VT] Checking VirusTotal for: cncmd.exe
+[2025-04-28 09:34:25] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 09:34:30] [VT] Checking VirusTotal for: conhost.exe
+[2025-04-28 09:34:35] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 09:34:40] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 09:34:45] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 09:34:50] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 09:34:54] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 09:45:28] [VT] Checking VirusTotal for: System
+[2025-04-28 09:45:37] [VT] Checking VirusTotal for: Registry
+[2025-04-28 09:45:42] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 09:45:45] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-04-28 09:45:50] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 09:45:54] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 09:45:58] [VT] Checking VirusTotal for: Copilot.exe
+[2025-04-28 09:46:03] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 09:46:06] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 09:46:31] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 12:58:42] [VT] Checking VirusTotal for: System
+[2025-04-28 12:58:54] [VT] Checking VirusTotal for: Registry
+[2025-04-28 12:58:58] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 12:59:04] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 12:59:09] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 12:59:13] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 12:59:19] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 12:59:24] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 12:59:30] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 12:59:38] [VT] Checking VirusTotal for: Code.exe
+[2025-04-28 12:59:43] [VT] Checking VirusTotal for: PowerToys.ColorPickerUI.exe
+[2025-04-28 13:01:08] [VT] Checking VirusTotal for: System
+[2025-04-28 13:01:13] [VT] Checking VirusTotal for: System
+[2025-04-28 13:01:18] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:01:24] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 13:01:33] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 13:01:40] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 13:01:47] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 13:01:53] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 13:02:00] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 13:02:07] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 13:02:16] [VT] Checking VirusTotal for: Code.exe
+[2025-04-28 13:02:23] [VT] Checking VirusTotal for: PowerToys.ColorPickerUI.exe
+[2025-04-28 13:02:33] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 13:02:39] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 13:02:45] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 13:02:50] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-28 13:02:55] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 13:03:01] [VT] Checking VirusTotal for: msedge.exe
+[2025-04-28 13:03:11] [VT] Checking VirusTotal for: dasHost.exe
+[2025-04-28 13:03:18] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-04-28 13:03:27] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-04-28 13:05:51] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 13:09:05] [VT] Checking VirusTotal for: System
+[2025-04-28 13:09:12] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:09:18] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 13:09:24] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 13:09:30] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 13:09:38] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 13:09:53] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 13:10:00] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 13:18:25] [VT] Checking VirusTotal for: System
+[2025-04-28 13:18:30] [VT] Checking VirusTotal for: System
+[2025-04-28 13:18:41] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:18:48] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 13:18:55] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 13:19:00] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 13:19:06] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 13:19:13] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 13:19:19] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 13:19:26] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 13:19:31] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 13:19:39] [VT] Checking VirusTotal for: PowerToys.ColorPickerUI.exe
+[2025-04-28 13:19:49] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 13:19:57] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 13:20:04] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 13:20:10] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-28 13:20:15] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 13:20:21] [VT] Checking VirusTotal for: dasHost.exe
+[2025-04-28 13:20:27] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-04-28 13:20:36] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-04-28 13:20:45] [VT] Checking VirusTotal for: MemCompression
+[2025-04-28 13:20:54] [VT] Checking VirusTotal for: Code.exe
+[2025-04-28 13:20:59] [VT] Checking VirusTotal for: dwm.exe
+[2025-04-28 13:21:05] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-04-28 13:21:11] [VT] Checking VirusTotal for: msedge.exe
+[2025-04-28 13:21:17] [KILL] Terminated harmful process: msedge.exe (PID: 4920)
+[2025-04-28 13:23:00] [VT] Checking VirusTotal for: System
+[2025-04-28 13:23:06] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:23:13] [VT] Checking VirusTotal for: System
+[2025-04-28 13:23:20] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:23:26] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 13:23:32] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 13:23:38] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 13:23:43] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 13:23:49] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 13:23:53] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 13:24:00] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 13:24:06] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 13:24:16] [VT] Checking VirusTotal for: PowerToys.ColorPickerUI.exe
+[2025-04-28 13:24:26] [VT] Checking VirusTotal for: msedge.exe
+[2025-04-28 13:24:32] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 13:24:38] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 13:24:44] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 13:24:51] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-28 13:24:56] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 13:25:03] [VT] Checking VirusTotal for: dasHost.exe
+[2025-04-28 13:25:09] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-04-28 13:25:18] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-04-28 13:25:24] [VT] Checking VirusTotal for: Notepad.exe
+[2025-04-28 13:25:30] [KILL] Terminated harmful process: Notepad.exe (PID: 2916)
+[2025-04-28 13:25:33] [VT] Checking VirusTotal for: MemCompression
+[2025-04-28 13:25:41] [VT] Checking VirusTotal for: Code.exe
+[2025-04-28 13:25:47] [VT] Checking VirusTotal for: dwm.exe
+[2025-04-28 13:25:53] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-04-28 13:25:59] [VT] Checking VirusTotal for: PowerToys.AdvancedPaste.exe
+[2025-04-28 13:26:06] [VT] Checking VirusTotal for: streamlit.exe
+[2025-04-28 13:26:15] [VT] Checking VirusTotal for: wlanext.exe
+[2025-04-28 13:26:22] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-04-28 13:26:31] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-04-28 13:26:41] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-04-28 13:26:50] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-04-28 13:26:57] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-04-28 13:27:05] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-04-28 13:27:10] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-04-28 13:27:17] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-04-28 13:27:25] [VT] Checking VirusTotal for: SnippingTool.exe
+[2025-04-28 13:27:31] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-04-28 13:27:39] [VT] Checking VirusTotal for: conhost.exe
+[2025-04-28 13:27:45] [VT] Checking VirusTotal for: PowerToys.PowerLauncher.exe
+[2025-04-28 13:27:52] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-04-28 13:27:59] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-04-28 13:28:05] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-04-28 13:28:11] [VT] Checking VirusTotal for: ms-teams.exe
+[2025-04-28 13:28:16] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-04-28 13:28:24] [VT] Checking VirusTotal for: dllhost.exe
+[2025-04-28 13:28:30] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-04-28 13:28:37] [VT] Checking VirusTotal for: NisSrv.exe
+[2025-04-28 13:28:43] [VT] Checking VirusTotal for: MicrosoftEdgeUpdate.exe
+[2025-04-28 13:28:51] [VT] Checking VirusTotal for: PowerToys.exe
+[2025-04-28 13:28:58] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-04-28 13:29:04] [VT] Checking VirusTotal for: ollama app.exe
+[2025-04-28 13:29:13] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-04-28 13:29:21] [VT] Checking VirusTotal for: LenovoVantage-(VantageCoreAddin).exe
+[2025-04-28 13:29:29] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-04-28 13:29:35] [VT] Checking VirusTotal for: winlogon.exe
+[2025-04-28 13:29:40] [VT] Checking VirusTotal for: ollama.exe
+[2025-04-28 13:29:47] [VT] Checking VirusTotal for: unsecapp.exe
+[2025-04-28 13:29:54] [VT] Checking VirusTotal for: backgroundTaskHost.exe
+[2025-04-28 13:30:02] [VT] Checking VirusTotal for: StartMenuExperienceHost.exe
+[2025-04-28 13:30:08] [VT] Checking VirusTotal for: Widgets.exe
+[2025-04-28 13:30:14] [VT] Checking VirusTotal for: ctfmon.exe
+[2025-04-28 13:30:20] [VT] Checking VirusTotal for: Taskmgr.exe
+[2025-04-28 13:30:27] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-04-28 13:30:33] [VT] Checking VirusTotal for: SecurityHealthService.exe
+[2025-04-28 13:30:38] [VT] Checking VirusTotal for: AMDRSServ.exe
+[2025-04-28 13:30:45] [VT] Checking VirusTotal for: cncmd.exe
+[2025-04-28 13:30:52] [VT] Checking VirusTotal for: explorer.exe
+[2025-04-28 13:30:59] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-04-28 13:31:05] [VT] Checking VirusTotal for: WmiApSrv.exe
+[2025-04-28 13:31:11] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-04-28 13:31:21] [VT] Checking VirusTotal for: PowerToys.PowerOCR.exe
+[2025-04-28 13:31:29] [VT] Checking VirusTotal for: sihost.exe
+[2025-04-28 13:31:35] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-04-28 13:31:42] [VT] Checking VirusTotal for: powershell.exe
+[2025-04-28 13:31:50] [VT] Checking VirusTotal for: PowerToys.Awake.exe
+[2025-04-28 13:31:57] [VT] Checking VirusTotal for: LocationNotificationWindows.exe
+[2025-04-28 13:32:05] [VT] Checking VirusTotal for: PowerToys.Peek.UI.exe
+[2025-04-28 13:32:12] [VT] Checking VirusTotal for: OneDrive.exe
+[2025-04-28 13:32:19] [VT] Checking VirusTotal for: Copilot.exe
+[2025-04-28 13:32:29] [VT] Checking VirusTotal for: PowerToys.FancyZones.exe
+[2025-04-28 13:32:38] [VT] Checking VirusTotal for: NhNotifSys.exe
+[2025-04-28 13:32:47] [VT] Checking VirusTotal for: SearchHost.exe
+[2025-04-28 13:32:54] [VT] Checking VirusTotal for: fdm.exe
+[2025-04-28 13:33:00] [VT] Checking VirusTotal for: AMDRSSrcExt.exe
+[2025-04-28 13:33:08] [VT] Checking VirusTotal for: PowerToys.ZoomIt.exe
+[2025-04-28 13:33:17] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-04-28 13:33:28] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-04-28 13:33:38] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-04-28 13:33:46] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-04-28 13:33:51] [VT] Checking VirusTotal for: LenovoVantage-(GenericMessagingAddin).exe
+[2025-04-28 13:33:58] [VT] Checking VirusTotal for: python.exe
+[2025-04-28 13:34:04] [VT] Checking VirusTotal for: ShellExperienceHost.exe
+[2025-04-28 13:34:54] [VT] Checking VirusTotal for: IdleScheduleEventAction.exe
+[2025-04-28 13:39:53] [VT] Checking VirusTotal for: System
+[2025-04-28 13:40:01] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:40:08] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 13:40:17] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 13:40:25] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 13:40:33] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 13:40:41] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 13:40:49] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 13:40:58] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-28 13:41:05] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 13:41:15] [VT] Checking VirusTotal for: PowerToys.ColorPickerUI.exe
+[2025-04-28 13:41:24] [VT] Checking VirusTotal for: msedge.exe
+[2025-04-28 13:41:31] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 13:41:40] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 13:41:48] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 13:41:55] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-28 13:42:03] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 13:42:11] [VT] Checking VirusTotal for: dasHost.exe
+[2025-04-28 13:42:32] [VT] Checking VirusTotal for: System
+[2025-04-28 13:42:38] [VT] Checking VirusTotal for: Registry
+[2025-04-28 13:42:44] [VT] Checking VirusTotal for: smss.exe
+[2025-04-28 13:42:50] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-28 13:42:55] [VT] Checking VirusTotal for: services.exe
+[2025-04-28 13:43:01] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-28 13:43:08] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-04-28 13:43:13] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-04-28 13:43:19] [VT] Checking VirusTotal for: python.exe
+[2025-04-28 13:43:26] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-04-28 13:43:33] [VT] Checking VirusTotal for: PowerToys.ColorPickerUI.exe
+[2025-04-28 13:43:43] [VT] Checking VirusTotal for: msedge.exe
+[2025-04-28 13:43:50] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-04-28 13:43:58] [VT] Checking VirusTotal for: Locator.exe
+[2025-04-28 13:44:04] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-04-28 13:44:10] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-28 13:44:16] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-04-28 13:44:22] [VT] Checking VirusTotal for: dasHost.exe
+[2025-04-28 13:44:28] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-04-28 13:44:37] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-04-28 13:44:48] [VT] Checking VirusTotal for: MemCompression
+[2025-04-28 13:44:57] [VT] Checking VirusTotal for: Code.exe
+[2025-04-28 13:45:02] [VT] Checking VirusTotal for: dwm.exe
+[2025-04-28 13:45:09] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-04-28 13:45:15] [VT] Checking VirusTotal for: PowerToys.AdvancedPaste.exe
+[2025-04-28 13:45:23] [VT] Checking VirusTotal for: wlanext.exe
+[2025-04-28 13:45:29] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-04-28 13:45:38] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-04-28 13:45:45] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-04-28 13:45:53] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-04-28 13:46:01] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-04-28 13:46:09] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-04-28 13:46:15] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-04-28 13:46:22] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-04-28 13:46:28] [VT] Checking VirusTotal for: SnippingTool.exe
+[2025-04-28 13:46:34] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-04-28 13:46:40] [VT] Checking VirusTotal for: conhost.exe
+[2025-04-28 13:46:47] [VT] Checking VirusTotal for: PowerToys.PowerLauncher.exe
+[2025-04-28 13:46:54] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-04-28 13:46:59] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-04-28 13:47:05] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-04-28 13:47:11] [VT] Checking VirusTotal for: ms-teams.exe
+[2025-04-28 13:47:17] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-04-28 13:47:23] [VT] Checking VirusTotal for: dllhost.exe
+[2025-04-28 13:47:29] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-04-28 13:47:35] [VT] Checking VirusTotal for: NisSrv.exe
+[2025-04-28 13:47:41] [VT] Checking VirusTotal for: MicrosoftEdgeUpdate.exe
+[2025-04-28 13:47:48] [VT] Checking VirusTotal for: PowerToys.exe
+[2025-04-28 13:47:57] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-04-28 13:48:04] [VT] Checking VirusTotal for: ollama app.exe
+[2025-04-28 13:48:10] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-04-28 13:48:18] [VT] Checking VirusTotal for: LenovoVantage-(VantageCoreAddin).exe
+[2025-04-28 13:48:25] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-04-28 13:54:10] [VT] Checking VirusTotal for: chrome.exe
+[2025-04-30 22:08:03] [VT] Checking VirusTotal for: System
+[2025-04-30 22:08:18] [VT] Checking VirusTotal for: Registry
+[2025-04-30 22:08:26] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-04-30 22:08:33] [VT] Checking VirusTotal for: smss.exe
+[2025-04-30 22:08:40] [VT] Checking VirusTotal for: wininit.exe
+[2025-04-30 22:08:47] [VT] Checking VirusTotal for: services.exe
+[2025-04-30 22:08:53] [VT] Checking VirusTotal for: lsass.exe
+[2025-04-30 22:08:59] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 10:48:19] [VT] Checking VirusTotal for: System
+[2025-05-08 10:48:55] [VT] Checking VirusTotal for: Registry
+[2025-05-08 10:49:01] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 10:49:08] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 10:49:14] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 10:50:30] [VT] Checking VirusTotal for: System
+[2025-05-08 10:50:36] [VT] Checking VirusTotal for: Registry
+[2025-05-08 10:50:42] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 10:50:48] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 10:50:54] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:00:38] [VT] Checking VirusTotal for: System
+[2025-05-08 11:00:53] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:00:59] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 11:01:05] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:01:12] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:01:19] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:01:25] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:01:33] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 11:04:23] [VT] Checking VirusTotal for: System
+[2025-05-08 11:04:29] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:04:35] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 11:04:41] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:04:46] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:12:56] [VT] Checking VirusTotal for: System
+[2025-05-08 11:13:10] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:13:16] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 11:13:21] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:13:27] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:13:33] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:13:38] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:13:46] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 11:13:52] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 11:13:58] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 11:14:04] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 11:20:59] [VT] Checking VirusTotal for: System
+[2025-05-08 11:21:14] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:21:21] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 11:21:27] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:21:33] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:21:39] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:21:44] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:21:52] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 11:22:08] [VT] Checking VirusTotal for: System
+[2025-05-08 11:22:15] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:22:21] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:22:27] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 11:22:33] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:22:41] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:27:46] [VT] Checking VirusTotal for: System
+[2025-05-08 11:27:59] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:28:06] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:28:14] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:30:06] [VT] Checking VirusTotal for: System
+[2025-05-08 11:30:13] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:30:20] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:30:26] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:30:33] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:30:39] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:43:31] [VT] Checking VirusTotal for: System
+[2025-05-08 11:43:45] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:43:51] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:43:56] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:44:00] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:44:05] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:44:13] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 11:44:18] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 11:44:23] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 11:45:58] [VT] Checking VirusTotal for: System
+[2025-05-08 11:46:03] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:46:09] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:46:15] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:46:20] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:46:25] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:46:33] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 11:46:38] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 11:46:43] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 11:46:48] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 11:46:56] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 11:47:01] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 11:47:08] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 11:47:13] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 11:47:22] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-08 11:47:28] [VT] Checking VirusTotal for: python.exe
+[2025-05-08 11:47:33] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-08 11:47:43] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-08 11:47:50] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-08 11:47:57] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-08 11:48:05] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-08 11:48:12] [VT] Checking VirusTotal for: MemCompression
+[2025-05-08 11:48:16] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-08 11:48:21] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 11:48:26] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-08 11:48:33] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-05-08 11:48:39] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 11:48:45] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-08 11:48:50] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-08 11:48:56] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-08 11:49:01] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-08 11:49:10] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-08 11:49:16] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-08 11:49:24] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-08 11:49:32] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-08 11:49:41] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-08 11:49:47] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-08 11:49:52] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-08 11:50:40] [VT] Checking VirusTotal for: System
+[2025-05-08 11:50:45] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:50:49] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:50:55] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:55:08] [VT] Checking VirusTotal for: System
+[2025-05-08 11:55:12] [VT] Checking VirusTotal for: Registry
+[2025-05-08 11:55:18] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 11:55:24] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 11:55:28] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 11:55:33] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 11:55:40] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 11:55:44] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 11:55:50] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 11:55:55] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 11:56:05] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 11:56:11] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 11:56:15] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 11:56:21] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 12:09:56] [VT] Checking VirusTotal for: System
+[2025-05-08 12:10:05] [VT] Checking VirusTotal for: Registry
+[2025-05-08 12:10:10] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 12:10:15] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 12:10:55] [VT] Checking VirusTotal for: System
+[2025-05-08 12:11:00] [VT] Checking VirusTotal for: Registry
+[2025-05-08 12:11:05] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 12:11:10] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 12:11:14] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 12:11:20] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 12:11:26] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 12:11:31] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 12:11:36] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 12:11:41] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 12:11:45] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 12:11:49] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 12:11:54] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 12:11:59] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 12:12:04] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-08 12:12:10] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-08 12:12:17] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-08 12:12:23] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-08 12:12:29] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-08 12:12:34] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-08 12:12:43] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-08 12:12:49] [VT] Checking VirusTotal for: MemCompression
+[2025-05-08 12:12:52] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-08 12:18:46] [VT] Checking VirusTotal for: System
+[2025-05-08 12:18:55] [VT] Checking VirusTotal for: Registry
+[2025-05-08 12:19:00] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 12:19:05] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 12:19:10] [VT] Checking VirusTotal for: python.exe
+[2025-05-08 12:19:15] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 12:19:21] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 12:19:26] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 12:20:51] [VT] Checking VirusTotal for: System
+[2025-05-08 12:20:56] [VT] Checking VirusTotal for: Registry
+[2025-05-08 12:21:01] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 12:21:05] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 12:21:10] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 12:21:14] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 12:21:18] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 12:21:25] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 12:21:30] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 12:21:35] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 12:21:40] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 12:21:44] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 12:21:49] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 12:21:53] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 12:21:57] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 12:22:05] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-08 12:22:10] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-08 12:22:18] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-08 12:22:23] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-08 12:22:30] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-08 12:22:37] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-08 12:22:44] [VT] Checking VirusTotal for: System
+[2025-05-08 12:22:48] [VT] Checking VirusTotal for: System
+[2025-05-08 12:22:53] [VT] Checking VirusTotal for: Registry
+[2025-05-08 12:22:58] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 12:23:03] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 12:23:08] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 12:23:12] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 12:23:17] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 12:23:23] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 12:23:28] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 12:23:34] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 12:23:39] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 12:23:46] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 12:23:51] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 12:23:57] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 12:24:02] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 12:24:08] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-08 12:24:13] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-08 12:24:22] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-08 12:24:27] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-08 12:24:32] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-08 12:24:41] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-08 12:24:46] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-08 12:24:51] [VT] Checking VirusTotal for: MemCompression
+[2025-05-08 12:24:55] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-08 12:25:00] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-08 12:25:04] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-05-08 12:25:12] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 12:25:17] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-08 12:25:21] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-08 12:25:26] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-08 12:25:33] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-08 12:25:40] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-08 12:25:45] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-08 12:25:53] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-08 12:26:01] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-08 12:26:08] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-08 12:26:16] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-08 12:26:22] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-08 12:26:26] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-08 12:26:31] [VT] Checking VirusTotal for: dllhost.exe
+[2025-05-08 12:26:36] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-08 12:26:40] [VT] Checking VirusTotal for: Nahimic3.exe
+[2025-05-08 12:26:48] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-05-08 12:26:53] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-08 12:26:58] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-08 12:27:04] [VT] Checking VirusTotal for: LockApp.exe
+[2025-05-08 12:27:09] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-05-08 12:27:14] [VT] Checking VirusTotal for: Copilot.exe
+[2025-05-08 12:27:19] [VT] Checking VirusTotal for: powershell.exe
+[2025-05-08 12:27:23] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-08 12:27:28] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-05-08 12:35:47] [VT] Checking VirusTotal for: System
+[2025-05-08 12:36:00] [VT] Checking VirusTotal for: Registry
+[2025-05-08 12:36:06] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 12:36:11] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 12:36:16] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 12:36:20] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 12:36:26] [VT] Checking VirusTotal for: Code.exe
+[2025-05-08 12:36:31] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 12:36:36] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 12:36:41] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 12:36:45] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 12:36:50] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 12:36:55] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 12:37:00] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 12:37:06] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 12:37:11] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-08 12:37:16] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-08 12:37:23] [VT] Checking VirusTotal for: python.exe
+[2025-05-08 12:37:30] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-08 12:37:35] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-08 12:37:41] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-08 12:37:49] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-08 12:37:51] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-08 12:37:58] [VT] Checking VirusTotal for: MemCompression
+[2025-05-08 12:38:02] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-08 12:38:03] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-08 12:38:10] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-08 12:38:15] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-05-08 12:38:20] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-08 12:38:25] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-08 12:38:29] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-08 12:38:35] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-08 12:38:43] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-08 12:38:51] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-08 12:38:55] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-08 12:39:04] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-08 12:39:08] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-08 12:39:17] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-08 12:39:24] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-08 12:39:30] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-08 12:39:34] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-08 12:39:42] [VT] Checking VirusTotal for: dllhost.exe
+[2025-05-08 12:39:46] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-08 12:39:50] [VT] Checking VirusTotal for: Nahimic3.exe
+[2025-05-08 12:39:58] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-05-08 12:40:03] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-08 12:40:07] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-08 12:40:12] [VT] Checking VirusTotal for: LockApp.exe
+[2025-05-08 12:40:18] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-08 12:40:23] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-05-08 12:40:25] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-08 12:40:28] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-08 12:40:34] [VT] Checking VirusTotal for: Copilot.exe
+[2025-05-08 12:40:38] [VT] Checking VirusTotal for: powershell.exe
+[2025-05-08 12:40:43] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-08 12:40:48] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-05-08 12:40:53] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-08 12:40:58] [VT] Checking VirusTotal for: ShellExperienceHost.exe
+[2025-05-08 12:41:07] [VT] Checking VirusTotal for: backgroundTaskHost.exe
+[2025-05-08 12:41:12] [VT] Checking VirusTotal for: fdm.exe
+[2025-05-08 12:41:17] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-08 12:41:21] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-05-08 12:41:26] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-05-08 13:46:40] [VT] Checking VirusTotal for: System
+[2025-05-08 13:46:51] [VT] Checking VirusTotal for: Registry
+[2025-05-08 13:46:56] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-08 13:47:04] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 13:47:09] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-08 13:47:13] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 13:47:18] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-08 13:47:22] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 13:47:27] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 13:47:31] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 13:47:36] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 13:47:40] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 13:47:46] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-08 13:47:51] [VT] Checking VirusTotal for: Copilot.exe
+[2025-05-08 13:47:55] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-08 13:48:00] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-08 13:48:05] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-08 13:48:10] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-08 13:48:18] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-08 13:59:15] [VT] Checking VirusTotal for: System
+[2025-05-08 13:59:24] [VT] Checking VirusTotal for: Registry
+[2025-05-08 13:59:29] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-08 13:59:34] [VT] Checking VirusTotal for: smss.exe
+[2025-05-08 13:59:39] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-08 13:59:44] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-08 13:59:50] [VT] Checking VirusTotal for: audiodg.exe
+[2025-05-08 13:59:55] [VT] Checking VirusTotal for: services.exe
+[2025-05-08 14:00:00] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-08 14:00:06] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-08 14:00:11] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-08 14:00:18] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-08 14:00:24] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-09 10:31:20] [VT] Checking VirusTotal for: System
+[2025-05-09 10:31:33] [VT] Checking VirusTotal for: Registry
+[2025-05-09 10:31:39] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 10:31:45] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 10:31:52] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 10:31:58] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 10:32:06] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 10:32:13] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 10:32:19] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 10:32:25] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 10:32:35] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 10:32:41] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 10:32:47] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 10:33:02] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 10:40:33] [VT] Checking VirusTotal for: System
+[2025-05-09 10:40:43] [VT] Checking VirusTotal for: Registry
+[2025-05-09 10:40:51] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 10:40:58] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 10:41:04] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 10:41:12] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 10:41:18] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 10:41:22] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 10:41:25] [DuckDuckGo] Error on attempt 2: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 10:41:33] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 10:41:39] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 10:41:47] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 10:41:54] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 10:42:03] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 10:42:09] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 10:42:15] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 10:42:21] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 10:42:26] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 10:42:35] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 10:42:41] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 10:42:47] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 10:42:53] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 10:42:59] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-09 10:43:07] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-09 10:43:14] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-09 10:43:26] [VT] Checking VirusTotal for: Code.exe
+[2025-05-09 10:43:32] [VT] Checking VirusTotal for: MemCompression
+[2025-05-09 10:43:38] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-09 10:43:46] [VT] Checking VirusTotal for: NahimicSvc32.exe
+[2025-05-09 10:43:56] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-09 10:44:04] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-09 10:44:10] [VT] Checking VirusTotal for: Notepad.exe
+[2025-05-09 10:44:15] [KILL] Terminated harmful process: Notepad.exe (PID: 5300)
+[2025-05-09 10:44:16] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-09 10:44:22] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-09 10:44:31] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-09 10:44:42] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-09 10:44:50] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-09 10:44:58] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-09 10:45:09] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-09 10:45:17] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-09 10:45:23] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-09 10:45:47] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 10:46:00] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-09 10:46:17] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-09 10:46:42] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-05-09 10:46:54] [VT] Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-09 10:47:01] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-09 10:47:09] [VT] Checking VirusTotal for: NahimicSvc64.exe
+[2025-05-09 10:47:23] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-09 10:47:29] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-05-09 10:47:39] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-09 10:47:48] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-05-09 10:47:55] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-05-09 10:48:01] [VT] Checking VirusTotal for: LocationNotificationWindows.exe
+[2025-05-09 10:48:08] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-05-09 10:48:13] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-09 10:48:21] [VT] Checking VirusTotal for: PowerToys.AdvancedPaste.exe
+[2025-05-09 10:48:27] [VT] Checking VirusTotal for: OneDrive.exe
+[2025-05-09 10:48:33] [VT] Checking VirusTotal for: powershell.exe
+[2025-05-09 10:48:39] [VT] Checking VirusTotal for: ms-teams.exe
+[2025-05-09 10:48:45] [VT] Checking VirusTotal for: AMDRSSrcExt.exe
+[2025-05-09 10:48:53] [VT] Checking VirusTotal for: AMDRSServ.exe
+[2025-05-09 10:48:59] [VT] Checking VirusTotal for: dllhost.exe
+[2025-05-09 10:49:06] [VT] Checking VirusTotal for: WmiApSrv.exe
+[2025-05-09 10:49:12] [KILL] Failed to terminate WmiApSrv.exe (PID: 11504): (pid=11504, name='WmiApSrv.exe')
+[2025-05-09 10:49:13] [VT] Checking VirusTotal for: ctfmon.exe
+[2025-05-09 10:49:19] [VT] Checking VirusTotal for: dwm.exe
+[2025-05-09 10:49:26] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-09 10:49:36] [VT] Checking VirusTotal for: fdm.exe
+[2025-05-09 10:49:42] [VT] Checking VirusTotal for: LenovoVantage-(GenericMessagingAddin).exe
+[2025-05-09 10:49:51] [VT] Checking VirusTotal for: PowerToys.FancyZones.exe
+[2025-05-09 10:50:02] [VT] Checking VirusTotal for: ollama app.exe
+[2025-05-09 10:50:09] [VT] Checking VirusTotal for: unsecapp.exe
+[2025-05-09 10:50:12] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 10:50:19] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-05-09 10:50:24] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 10:50:31] [VT] Checking VirusTotal for: PowerToys.ZoomIt.exe
+[2025-05-09 10:50:38] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-09 10:50:48] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-05-09 10:50:55] [VT] Checking VirusTotal for: PowerToys.Peek.UI.exe
+[2025-05-09 10:51:03] [VT] Checking VirusTotal for: PowerToys.Awake.exe
+[2025-05-09 10:51:10] [VT] Checking VirusTotal for: backgroundTaskHost.exe
+[2025-05-09 10:51:20] [VT] Checking VirusTotal for: NisSrv.exe
+[2025-05-09 10:51:27] [VT] Checking VirusTotal for: SearchHost.exe
+[2025-05-09 10:51:36] [VT] Checking VirusTotal for: Widgets.exe
+[2025-05-09 10:51:42] [VT] Checking VirusTotal for: LenovoVantage-(LenovoGamingSystemAddin).exe
+[2025-05-09 10:51:52] [VT] Checking VirusTotal for: ShellExperienceHost.exe
+[2025-05-09 10:52:02] [VT] Checking VirusTotal for: SecurityHealthService.exe
+[2025-05-09 10:52:07] [VT] Checking VirusTotal for: PowerToys.PowerOCR.exe
+[2025-05-09 10:52:16] [VT] Checking VirusTotal for: StartMenuExperienceHost.exe
+[2025-05-09 10:52:22] [VT] Checking VirusTotal for: explorer.exe
+[2025-05-09 10:52:30] [VT] Checking VirusTotal for: Nahimic3.exe
+[2025-05-09 10:52:37] [VT] Checking VirusTotal for: AppVShNotify.exe
+[2025-05-09 10:52:44] [VT] Checking VirusTotal for: PowerToys.PowerLauncher.exe
+[2025-05-09 10:52:51] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-09 10:52:55] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 10:53:03] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-05-09 10:53:09] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-05-09 10:53:18] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-05-09 10:53:25] [VT] Checking VirusTotal for: PowerToys.exe
+[2025-05-09 10:53:33] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-09 10:53:41] [VT] Checking VirusTotal for: Copilot.exe
+[2025-05-09 10:53:53] [VT] Checking VirusTotal for: POWERPNT.EXE
+[2025-05-09 11:05:03] [VT] Checking VirusTotal for: VSSVC.exe
+[2025-05-09 11:07:09] [VT] Checking VirusTotal for: MoUsoCoreWorker.exe
+[2025-05-09 11:07:15] [VT] Checking VirusTotal for: sppsvc.exe
+[2025-05-09 11:07:24] [VT] Checking VirusTotal for: IdleScheduleEventAction.exe
+[2025-05-09 11:08:55] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.PluginHost.Device.exe
+[2025-05-09 11:14:22] [VT] Checking VirusTotal for: OfficeC2RClient.exe
+[2025-05-09 11:28:55] [VT] Checking VirusTotal for: ms-teamsupdate.exe
+[2025-05-09 11:36:38] [VT] Checking VirusTotal for: System
+[2025-05-09 11:36:46] [VT] Checking VirusTotal for: Registry
+[2025-05-09 11:36:51] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 11:36:57] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 11:37:00] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 11:37:07] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 11:37:14] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 11:37:19] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 11:37:25] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 11:37:31] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 11:37:38] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 11:37:45] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 11:37:54] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 11:38:00] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 11:38:07] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 11:38:13] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 11:38:46] [VT] Checking VirusTotal for: System
+[2025-05-09 11:38:56] [VT] Checking VirusTotal for: Registry
+[2025-05-09 11:39:01] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 11:39:08] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 11:39:14] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 11:39:21] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 11:39:49] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 11:40:12] [DuckDuckGo] Error on attempt 2: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 11:40:29] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 11:40:36] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 11:40:42] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 11:40:49] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 11:40:55] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 11:41:05] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 11:41:12] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 11:41:14] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:41:21] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 11:41:24] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 11:41:31] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 11:41:37] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 11:41:43] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 11:41:51] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 11:41:57] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 11:42:04] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 11:42:10] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-09 11:42:17] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-09 11:42:23] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-09 11:42:34] [VT] Checking VirusTotal for: Code.exe
+[2025-05-09 11:42:41] [VT] Checking VirusTotal for: MemCompression
+[2025-05-09 11:42:46] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-09 11:42:54] [VT] Checking VirusTotal for: NahimicSvc32.exe
+[2025-05-09 11:43:03] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-09 11:43:10] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-09 11:43:17] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-09 11:43:23] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-09 11:43:30] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-09 11:43:39] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-09 11:43:47] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-09 11:43:57] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-09 11:44:06] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-09 11:44:15] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-09 11:44:21] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-09 11:44:27] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-09 11:44:30] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:44:41] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-09 11:44:47] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-05-09 11:44:53] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-09 11:45:00] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-09 11:45:05] [VT] Checking VirusTotal for: NahimicSvc64.exe
+[2025-05-09 11:45:11] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-09 11:45:18] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-05-09 11:45:27] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-09 11:45:34] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-05-09 11:45:39] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-05-09 11:45:46] [VT] Checking VirusTotal for: Taskmgr.exe
+[2025-05-09 11:45:52] [VT] Checking VirusTotal for: LocationNotificationWindows.exe
+[2025-05-09 11:45:58] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-05-09 11:46:04] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-09 11:46:10] [VT] Checking VirusTotal for: PowerToys.AdvancedPaste.exe
+[2025-05-09 11:46:18] [VT] Checking VirusTotal for: OneDrive.exe
+[2025-05-09 11:46:25] [VT] Checking VirusTotal for: powershell.exe
+[2025-05-09 11:46:29] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 11:46:33] [DuckDuckGo] Error on attempt 2: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 11:46:40] [VT] Checking VirusTotal for: ms-teams.exe
+[2025-05-09 11:46:47] [VT] Checking VirusTotal for: AMDRSSrcExt.exe
+[2025-05-09 11:46:55] [VT] Checking VirusTotal for: AMDRSServ.exe
+[2025-05-09 11:47:01] [VT] Checking VirusTotal for: dllhost.exe
+[2025-05-09 11:47:08] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 11:47:11] [VT] Checking VirusTotal for: System
+[2025-05-09 11:47:18] [VT] Checking VirusTotal for: Registry
+[2025-05-09 11:47:24] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 11:47:30] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 11:47:33] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:47:40] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 11:47:48] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 11:47:53] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 11:48:00] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 11:48:06] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 11:48:13] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 11:48:20] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 11:48:29] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 11:48:36] [KILL] Failed to terminate wlanext.exe (PID: 2432): (pid=2432, name='wlanext.exe')
+[2025-05-09 11:48:36] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 11:48:43] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 11:48:49] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 11:48:55] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 11:49:03] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 11:49:09] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 11:49:16] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 11:49:21] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 11:49:27] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-09 11:49:34] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-09 11:49:40] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-09 11:49:49] [VT] Checking VirusTotal for: Code.exe
+[2025-05-09 11:49:56] [VT] Checking VirusTotal for: MemCompression
+[2025-05-09 11:50:02] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-09 11:50:09] [VT] Checking VirusTotal for: NahimicSvc32.exe
+[2025-05-09 11:50:18] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-09 11:50:24] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-09 11:50:30] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-09 11:50:36] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-09 11:50:43] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-09 11:50:48] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-09 11:50:56] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-09 11:51:04] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-09 11:51:15] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-09 11:51:21] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-09 11:51:27] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-09 11:51:34] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-09 11:51:43] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-09 11:51:50] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-05-09 11:51:56] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-09 11:52:02] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-09 11:52:08] [VT] Checking VirusTotal for: NahimicSvc64.exe
+[2025-05-09 11:52:37] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:52:59] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:53:19] [VT] Checking VirusTotal for: System
+[2025-05-09 11:53:25] [VT] Checking VirusTotal for: Registry
+[2025-05-09 11:53:31] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 11:53:37] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 11:53:43] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 11:53:49] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 11:53:55] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 11:54:02] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 11:54:08] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 11:54:16] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 11:54:24] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 11:54:34] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 11:54:42] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 11:54:49] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 11:54:56] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 11:55:02] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 11:55:11] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 11:55:20] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 11:55:26] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 11:55:33] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 11:56:36] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:56:47] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 11:56:52] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 11:56:55] [VT] Checking VirusTotal for: System
+[2025-05-09 11:57:02] [VT] Checking VirusTotal for: System
+[2025-05-09 11:57:08] [VT] Checking VirusTotal for: Registry
+[2025-05-09 11:57:14] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 11:57:20] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 11:57:26] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 11:57:33] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 11:57:39] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 11:57:45] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 11:57:52] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 11:58:00] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 11:58:58] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 11:59:21] [VT] Checking VirusTotal for: System
+[2025-05-09 11:59:28] [VT] Checking VirusTotal for: Registry
+[2025-05-09 11:59:34] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 11:59:41] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 11:59:47] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 11:59:55] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 12:00:02] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 12:00:10] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 12:00:16] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 12:00:25] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 12:00:30] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 12:00:38] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 12:00:48] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 12:00:55] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 12:01:02] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 12:01:07] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 12:01:14] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 12:01:22] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 12:01:30] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 12:01:39] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 12:01:46] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 12:01:52] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-09 12:02:02] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-09 12:02:09] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-09 12:02:16] [VT] Checking VirusTotal for: Code.exe
+[2025-05-09 12:02:24] [VT] Checking VirusTotal for: MemCompression
+[2025-05-09 12:02:29] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-09 12:02:36] [VT] Checking VirusTotal for: NahimicSvc32.exe
+[2025-05-09 12:02:45] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-09 12:02:53] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-09 12:02:59] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-09 12:03:05] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-09 12:03:11] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-09 12:03:19] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-09 12:03:26] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-09 12:03:38] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-09 12:03:50] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-09 12:03:57] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-09 12:04:03] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-09 12:04:10] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-09 12:04:20] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-09 12:04:26] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-05-09 12:04:33] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-09 12:04:40] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-09 12:04:42] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:04:50] [VT] Checking VirusTotal for: NahimicSvc64.exe
+[2025-05-09 12:04:59] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-09 12:05:06] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-05-09 12:05:16] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-09 12:05:23] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-05-09 12:06:01] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 12:10:02] [VT] Checking VirusTotal for: System
+[2025-05-09 12:10:08] [VT] Checking VirusTotal for: Registry
+[2025-05-09 12:10:15] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 12:10:22] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 12:10:27] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 12:10:34] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 12:10:40] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 12:10:47] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 12:10:52] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 12:10:59] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 12:11:08] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 12:11:18] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 12:11:25] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 12:12:13] [VT] Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-09 12:12:20] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 12:12:28] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 12:12:34] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 12:12:42] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 12:12:49] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 12:12:56] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 12:13:02] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 12:13:09] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-09 12:13:16] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-09 12:13:22] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-09 12:13:30] [VT] Checking VirusTotal for: Code.exe
+[2025-05-09 12:13:36] [VT] Checking VirusTotal for: MemCompression
+[2025-05-09 12:13:43] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-09 12:13:51] [VT] Checking VirusTotal for: NahimicSvc32.exe
+[2025-05-09 12:14:01] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-09 12:14:09] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-09 12:14:19] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-09 12:14:25] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-09 12:14:32] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-09 12:14:38] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-09 12:14:46] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-09 12:14:55] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-09 12:15:06] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-09 12:15:13] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-09 12:15:20] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-09 12:15:27] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-09 12:15:35] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-09 12:15:41] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-05-09 12:15:47] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-09 12:15:54] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-09 12:16:00] [VT] Checking VirusTotal for: NahimicSvc64.exe
+[2025-05-09 12:16:10] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-09 12:16:16] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-05-09 12:16:27] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-09 12:16:35] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-05-09 12:16:41] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-05-09 12:16:48] [VT] Checking VirusTotal for: Taskmgr.exe
+[2025-05-09 12:16:55] [VT] Checking VirusTotal for: LocationNotificationWindows.exe
+[2025-05-09 12:17:03] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-05-09 12:17:09] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-09 12:17:15] [VT] Checking VirusTotal for: PowerToys.AdvancedPaste.exe
+[2025-05-09 12:17:22] [VT] Checking VirusTotal for: OneDrive.exe
+[2025-05-09 12:17:30] [VT] Checking VirusTotal for: powershell.exe
+[2025-05-09 12:17:33] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:17:40] [VT] Checking VirusTotal for: ms-teams.exe
+[2025-05-09 12:17:46] [VT] Checking VirusTotal for: AMDRSSrcExt.exe
+[2025-05-09 12:17:55] [VT] Checking VirusTotal for: AMDRSServ.exe
+[2025-05-09 12:18:01] [VT] Checking VirusTotal for: dllhost.exe
+[2025-05-09 12:18:08] [VT] Checking VirusTotal for: WmiApSrv.exe
+[2025-05-09 12:18:11] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 12:18:19] [VT] Checking VirusTotal for: ctfmon.exe
+[2025-05-09 12:18:26] [VT] Checking VirusTotal for: dwm.exe
+[2025-05-09 12:18:33] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-09 12:18:36] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:18:47] [VT] Checking VirusTotal for: fdm.exe
+[2025-05-09 12:18:53] [VT] Checking VirusTotal for: LenovoVantage-(GenericMessagingAddin).exe
+[2025-05-09 12:19:04] [VT] Checking VirusTotal for: POWERPNT.EXE
+[2025-05-09 12:19:10] [VT] Checking VirusTotal for: PowerToys.FancyZones.exe
+[2025-05-09 12:19:20] [VT] Checking VirusTotal for: ollama app.exe
+[2025-05-09 12:19:29] [VT] Checking VirusTotal for: unsecapp.exe
+[2025-05-09 12:19:35] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-05-09 12:19:42] [VT] Checking VirusTotal for: PowerToys.ZoomIt.exe
+[2025-05-09 12:19:46] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:19:54] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-09 12:20:03] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-05-09 12:20:10] [VT] Checking VirusTotal for: PowerToys.Peek.UI.exe
+[2025-05-09 12:20:13] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 12:20:21] [VT] Checking VirusTotal for: PowerToys.Awake.exe
+[2025-05-09 12:20:28] [VT] Checking VirusTotal for: backgroundTaskHost.exe
+[2025-05-09 12:20:33] [VT] Checking VirusTotal for: NisSrv.exe
+[2025-05-09 12:20:36] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:20:40] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 12:20:49] [VT] Checking VirusTotal for: SearchHost.exe
+[2025-05-09 12:20:58] [VT] Checking VirusTotal for: Widgets.exe
+[2025-05-09 12:21:04] [VT] Checking VirusTotal for: LenovoVantage-(LenovoGamingSystemAddin).exe
+[2025-05-09 12:21:12] [VT] Checking VirusTotal for: ShellExperienceHost.exe
+[2025-05-09 12:21:22] [VT] Checking VirusTotal for: SecurityHealthService.exe
+[2025-05-09 12:21:26] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-09 12:21:33] [VT] Checking VirusTotal for: PowerToys.PowerOCR.exe
+[2025-05-09 12:21:55] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:22:18] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:22:28] [VT] Checking VirusTotal for: StartMenuExperienceHost.exe
+[2025-05-09 12:22:51] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:23:15] [VT] Checking VirusTotal for: explorer.exe
+[2025-05-09 12:23:26] [VT] Checking VirusTotal for: Nahimic3.exe
+[2025-05-09 12:23:32] [VT] Checking VirusTotal for: AppVShNotify.exe
+[2025-05-09 12:23:48] [VT] Checking VirusTotal for: PowerToys.PowerLauncher.exe
+[2025-05-09 12:24:01] [VT] Checking VirusTotal for: AppProvisioningPlugin.exe
+[2025-05-09 12:24:12] [VT] Checking VirusTotal for: atieclxx.exe
+[2025-05-09 12:24:18] [VT] Checking VirusTotal for: taskhostw.exe
+[2025-05-09 12:24:25] [VT] Checking VirusTotal for: PowerToys.exe
+[2025-05-09 12:24:28] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:24:35] [VT] Checking VirusTotal for: TextInputHost.exe
+[2025-05-09 12:24:41] [VT] Checking VirusTotal for: Notepad.exe
+[2025-05-09 12:24:47] [KILL] Terminated harmful process: Notepad.exe (PID: 24196)
+[2025-05-09 12:24:47] [VT] Checking VirusTotal for: Copilot.exe
+[2025-05-09 12:30:01] [VT] Checking VirusTotal for: updater.exe
+[2025-05-09 12:32:05] [VT] Checking VirusTotal for: System
+[2025-05-09 12:32:12] [VT] Checking VirusTotal for: Registry
+[2025-05-09 12:32:18] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 12:32:26] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 12:32:32] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 12:36:57] [VT] Checking VirusTotal for: System
+[2025-05-09 12:36:59] [VT] Checking VirusTotal for: System
+[2025-05-09 12:37:06] [VT] Checking VirusTotal for: Registry
+[2025-05-09 12:37:16] [VT] Checking VirusTotal for: smss.exe
+[2025-05-09 12:38:06] [VT] Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-09 12:38:11] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-09 12:38:17] [VT] Checking VirusTotal for: nahimicNotifSys.exe
+[2025-05-09 12:38:24] [VT] Checking VirusTotal for: services.exe
+[2025-05-09 12:38:30] [VT] Checking VirusTotal for: lsass.exe
+[2025-05-09 12:38:37] [VT] Checking VirusTotal for: fontdrvhost.exe
+[2025-05-09 12:38:42] [VT] Checking VirusTotal for: WUDFHost.exe
+[2025-05-09 12:38:50] [VT] Checking VirusTotal for: python.exe
+[2025-05-09 12:38:58] [VT] Checking VirusTotal for: msedgewebview2.exe
+[2025-05-09 12:39:08] [VT] Checking VirusTotal for: wlanext.exe
+[2025-05-09 12:39:15] [VT] Checking VirusTotal for: NVDisplay.Container.exe
+[2025-05-09 12:39:20] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-09 12:39:26] [VT] Checking VirusTotal for: dasHost.exe
+[2025-05-09 12:39:32] [VT] Checking VirusTotal for: amdfendrsr.exe
+[2025-05-09 12:39:40] [VT] Checking VirusTotal for: atiesrxx.exe
+[2025-05-09 12:39:46] [VT] Checking VirusTotal for: winlogon.exe
+[2025-05-09 12:39:53] [VT] Checking VirusTotal for: conhost.exe
+[2025-05-09 12:39:59] [VT] Checking VirusTotal for: RuntimeBroker.exe
+[2025-05-09 12:40:06] [VT] Checking VirusTotal for: streamlit.exe
+[2025-05-09 12:40:14] [VT] Checking VirusTotal for: WmiPrvSE.exe
+[2025-05-09 12:40:20] [VT] Checking VirusTotal for: spoolsv.exe
+[2025-05-09 12:40:29] [VT] Checking VirusTotal for: Code.exe
+[2025-05-09 12:40:35] [VT] Checking VirusTotal for: MemCompression
+[2025-05-09 12:40:41] [VT] Checking VirusTotal for: sihost.exe
+[2025-05-09 12:40:49] [VT] Checking VirusTotal for: NahimicSvc32.exe
+[2025-05-09 12:40:57] [VT] Checking VirusTotal for: FnHotkeyUtility.exe
+[2025-05-09 12:41:05] [VT] Checking VirusTotal for: Locator.exe
+[2025-05-09 12:41:11] [VT] Checking VirusTotal for: LenovoUtilityService.exe
+[2025-05-09 12:41:19] [VT] Checking VirusTotal for: NahimicService.exe
+[2025-05-09 12:41:26] [VT] Checking VirusTotal for: LenovoVantageService.exe
+[2025-05-09 12:41:36] [VT] Checking VirusTotal for: RtkAudUService64.exe
+[2025-05-09 12:41:44] [VT] Checking VirusTotal for: Lenovo.Modern.ImController.exe
+[2025-05-09 12:41:53] [VT] Checking VirusTotal for: MpDefenderCoreService.exe
+[2025-05-09 12:42:04] [VT] Checking VirusTotal for: UDClientService.exe
+[2025-05-09 12:42:11] [VT] Checking VirusTotal for: MsMpEng.exe
+[2025-05-09 12:42:17] [VT] Checking VirusTotal for: rustdesk.exe
+[2025-05-09 12:42:23] [VT] Checking VirusTotal for: OfficeClickToRun.exe
+[2025-05-09 12:42:26] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-09 12:42:36] [VT] Checking VirusTotal for: cncmd.exe
+[2025-05-09 12:42:42] [VT] Checking VirusTotal for: PowerToys.CropAndLock.exe
+[2025-05-09 12:42:49] [VT] Checking VirusTotal for: WidgetService.exe
+[2025-05-09 12:42:56] [VT] Checking VirusTotal for: NahimicSvc64.exe
+[2025-05-09 12:43:02] [VT] Checking VirusTotal for: AggregatorHost.exe
+[2025-05-09 12:43:09] [VT] Checking VirusTotal for: PowerToys.AlwaysOnTop.exe
+[2025-05-09 12:43:15] [VT] Checking VirusTotal for: ApplicationFrameHost.exe
+[2025-05-09 12:43:22] [VT] Checking VirusTotal for: SystemSettingsBroker.exe
+[2025-05-09 12:43:28] [VT] Checking VirusTotal for: SecurityHealthSystray.exe
+[2025-05-09 12:43:34] [VT] Checking VirusTotal for: Taskmgr.exe
+[2025-05-09 12:43:40] [VT] Checking VirusTotal for: LocationNotificationWindows.exe
+[2025-05-09 12:43:48] [VT] Checking VirusTotal for: RadeonSoftware.exe
+[2025-05-09 12:43:54] [VT] Checking VirusTotal for: msedge.exe
+[2025-05-09 12:44:00] [VT] Checking VirusTotal for: PowerToys.AdvancedPaste.exe
+[2025-05-09 12:44:07] [VT] Checking VirusTotal for: OneDrive.exe
+[2025-05-09 12:44:14] [VT] Checking VirusTotal for: powershell.exe
+[2025-05-09 12:44:19] [VT] Checking VirusTotal for: ms-teams.exe
+[2025-05-09 12:44:25] [VT] Checking VirusTotal for: AMDRSSrcExt.exe
+[2025-05-09 12:44:34] [VT] Checking VirusTotal for: AMDRSServ.exe
+[2025-05-09 12:44:39] [VT] Checking VirusTotal for: dllhost.exe
+[2025-05-09 12:44:46] [VT] Checking VirusTotal for: WmiApSrv.exe
+[2025-05-09 12:44:53] [VT] Checking VirusTotal for: ctfmon.exe
+[2025-05-09 12:44:59] [VT] Checking VirusTotal for: dwm.exe
+[2025-05-09 12:45:06] [VT] Checking VirusTotal for: NahimicAPO4Volume.exe
+[2025-05-09 12:45:16] [VT] Checking VirusTotal for: fdm.exe
+[2025-05-09 12:45:24] [VT] Checking VirusTotal for: LenovoVantage-(GenericMessagingAddin).exe
+[2025-05-09 12:45:42] [VT] Checking VirusTotal for: POWERPNT.EXE
+[2025-05-09 12:45:49] [VT] Checking VirusTotal for: PowerToys.FancyZones.exe
+[2025-05-09 12:45:58] [VT] Checking VirusTotal for: ollama app.exe
+[2025-05-09 12:46:04] [VT] Checking VirusTotal for: unsecapp.exe
+[2025-05-09 12:46:11] [VT] Checking VirusTotal for: SearchIndexer.exe
+[2025-05-09 12:46:17] [VT] Checking VirusTotal for: PowerToys.ZoomIt.exe
+[2025-05-09 12:46:24] [VT] Checking VirusTotal for: FnHotkeyCapsLKNumLK.exe
+[2025-05-09 12:46:36] [VT] Checking VirusTotal for: UserOOBEBroker.exe
+[2025-05-09 12:46:42] [VT] Checking VirusTotal for: PowerToys.Peek.UI.exe
+[2025-05-09 12:46:49] [VT] Checking VirusTotal for: PowerToys.Awake.exe
+[2025-05-09 12:46:56] [VT] Checking VirusTotal for: backgroundTaskHost.exe
+[2025-05-09 12:47:03] [VT] Checking VirusTotal for: ollama.exe
+[2025-05-09 12:47:10] [VT] Checking VirusTotal for: NisSrv.exe
+[2025-05-09 12:47:17] [VT] Checking VirusTotal for: SearchHost.exe
+[2025-05-09 12:47:23] [VT] Checking VirusTotal for: Widgets.exe
+[2025-05-09 12:47:29] [VT] Checking VirusTotal for: LenovoVantage-(LenovoGamingSystemAddin).exe
+[2025-05-09 12:47:39] [VT] Checking VirusTotal for: ShellExperienceHost.exe
+[2025-05-09 12:47:49] [VT] Checking VirusTotal for: SecurityHealthService.exe
+[2025-05-09 12:47:57] [VT] Checking VirusTotal for: PowerToys.PowerOCR.exe
+[2025-05-09 12:48:08] [VT] Checking VirusTotal for: StartMenuExperienceHost.exe
+[2025-05-09 12:48:35] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:48:58] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:49:21] [DuckDuckGo] Error on attempt 3: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:49:21] [DuckDuckGo] Max retries reached for query: StartMenuExperienceHost.exe
+[2025-05-09 12:49:26] [VT] Checking VirusTotal for: explorer.exe
+[2025-05-09 12:51:07] [VT] Error: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+[2025-05-09 12:51:18] [VT] Checking VirusTotal for: Nahimic3.exe
+[2025-05-09 12:51:41] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-09 12:51:54] [DuckDuckGo] Error on attempt 2: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-09 12:51:57] [DuckDuckGo] Error on attempt 3: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-09 12:51:57] [DuckDuckGo] Max retries reached for query: Nahimic3.exe
+[2025-05-09 12:52:02] [VT] Checking VirusTotal for: AppVShNotify.exe
+[2025-05-09 12:52:02] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=AppVShNotify.exe (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000014536C221D0>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-09 12:52:03] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-09 12:52:06] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:29] [VT] Checking VirusTotal for: System
+[2025-05-21 10:45:30] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=System (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000293F19A1F90>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-21 10:45:30] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:33] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:36] [DuckDuckGo] Error on attempt 3: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:36] [DuckDuckGo] Max retries reached for query: System
+[2025-05-21 10:45:45] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:45:45] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=Registry (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000293F19C5CD0>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-21 10:45:46] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:49] [DuckDuckGo] Error on attempt 2: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:52] [DuckDuckGo] Error on attempt 3: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:45:52] [DuckDuckGo] Max retries reached for query: Registry
+[2025-05-21 10:46:46] [VT] Checking VirusTotal for: System
+[2025-05-21 10:46:46] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=System (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000217DE5DA8D0>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-21 10:46:47] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:46:50] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:46:53] [DuckDuckGo] Error on attempt 3: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:46:53] [DuckDuckGo] Max retries reached for query: System
+[2025-05-21 10:46:57] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:46:57] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=Registry (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000217DE62D150>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-21 10:46:58] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:47:01] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:47:03] [DuckDuckGo] Error on attempt 3: https://lite.duckduckgo.com/lite/ RuntimeError: error sending request for url (https://lite.duckduckgo.com/lite/): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:47:03] [DuckDuckGo] Max retries reached for query: Registry
+[2025-05-21 10:47:08] [VT] Checking VirusTotal for: smss.exe
+[2025-05-21 10:47:08] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=smss.exe (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000217DE631A10>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-21 10:47:09] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:47:11] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:47:14] [DuckDuckGo] Error on attempt 3: https://html.duckduckgo.com/html RuntimeError: error sending request for url (https://html.duckduckgo.com/html): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 10:47:14] [DuckDuckGo] Max retries reached for query: smss.exe
+[2025-05-21 10:47:49] [VT] Checking VirusTotal for: System
+[2025-05-21 10:47:58] [DuckDuckGo] Error on attempt 1: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-21 10:50:32] [VT] Checking VirusTotal for: System
+[2025-05-21 10:50:37] [DuckDuckGo] Error on attempt 1: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-05-21 10:50:42] [DuckDuckGo] Error on attempt 2: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-05-21 10:52:22] [VT] Checking VirusTotal for: System
+[2025-05-21 10:53:44] [VT] Checking VirusTotal for: System
+[2025-05-21 10:53:52] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:54:00] [VT] Checking VirusTotal for: smss.exe
+[2025-05-21 10:54:07] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-21 10:54:17] [VT] Checking VirusTotal for: System
+[2025-05-21 10:54:18] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-21 10:55:29] [VT] Checking VirusTotal for: System
+[2025-05-21 10:55:36] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:55:43] [VT] Checking VirusTotal for: smss.exe
+[2025-05-21 10:55:50] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-21 10:55:51] [DuckDuckGo] Error on attempt 1: cannot schedule new futures after shutdown
+[2025-05-21 10:55:54] [DuckDuckGo] Error on attempt 2: cannot schedule new futures after shutdown
+[2025-05-21 10:55:57] [DuckDuckGo] Error on attempt 3: cannot schedule new futures after shutdown
+[2025-05-21 10:55:59] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-21 10:56:00] [DuckDuckGo] Error on attempt 1: cannot schedule new futures after shutdown
+[2025-05-21 10:56:03] [DuckDuckGo] Error on attempt 2: cannot schedule new futures after shutdown
+[2025-05-21 10:56:06] [DuckDuckGo] Error on attempt 3: cannot schedule new futures after shutdown
+[2025-05-21 10:56:08] [VT] Checking VirusTotal for: services.exe
+[2025-05-21 10:56:09] [DuckDuckGo] Error on attempt 1: cannot schedule new futures after shutdown
+[2025-05-21 10:56:21] [VT] Checking VirusTotal for: System
+[2025-05-21 10:56:25] [VT] Checking VirusTotal for: System
+[2025-05-21 10:56:28] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:56:30] [VT] Checking VirusTotal for: System
+[2025-05-21 10:56:30] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:56:31] [VT] Checking VirusTotal for: System
+[2025-05-21 10:57:28] [VT] Checking VirusTotal for: System
+[2025-05-21 10:57:34] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:57:37] [DuckDuckGo] Error on attempt 1: https://links.duckduckgo.com/d.js?q=Registry&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-173192264511376434951455476051316880225&bing_market=wt-WT&ex=-1 202 Ratelimit
+[2025-05-21 10:57:45] [VT] Checking VirusTotal for: smss.exe
+[2025-05-21 10:57:53] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-21 10:58:23] [VT] Checking VirusTotal for: System
+[2025-05-21 10:58:30] [VT] Checking VirusTotal for: Registry
+[2025-05-21 10:58:37] [VT] Checking VirusTotal for: smss.exe
+[2025-05-21 11:08:06] [VT] Checking VirusTotal for: System
+[2025-05-21 11:08:39] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+services.exe+open+port+1024): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:39] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+services.exe+open+port+1024): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:40] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+NahimicService.exe+open+port+9080): operation timed out
+
+Caused by:
+    operation timed out
+[2025-05-21 11:08:41] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+services.exe+open+port+1024): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:41] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+services.exe+open+port+1024): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:42] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+NahimicService.exe+open+port+9080): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:43] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+services.exe+open+port+1024): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:43] [DuckDuckGo] Max retries reached for query: security risk services.exe open port 1024
+[2025-05-21 11:08:43] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+services.exe+open+port+1024): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:43] [DuckDuckGo] Max retries reached for query: security risk services.exe open port 1024
+[2025-05-21 11:08:44] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+NahimicService.exe+open+port+9080): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:44] [DuckDuckGo] Max retries reached for query: security risk NahimicService.exe open port 9080
+[2025-05-21 11:08:48] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+ollama.exe+open+port+11434): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:50] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+ollama.exe+open+port+11434): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:52] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+ollama.exe+open+port+11434): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:52] [DuckDuckGo] Max retries reached for query: security risk ollama.exe open port 11434
+[2025-05-21 11:08:54] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+NahimicService.exe+open+port+9080): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:56] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+NahimicService.exe+open+port+9080): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:58] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+NahimicService.exe+open+port+9080): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:08:58] [DuckDuckGo] Max retries reached for query: security risk NahimicService.exe open port 9080
+[2025-05-21 11:09:01] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+System+open+port+445): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:03] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+System+open+port+445): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:05] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+System+open+port+445): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:05] [DuckDuckGo] Max retries reached for query: security risk System open port 445
+[2025-05-21 11:09:08] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+spoolsv.exe+open+port+49668): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:10] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+spoolsv.exe+open+port+49668): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:12] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=security+risk+spoolsv.exe+open+port+49668): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:12] [DuckDuckGo] Max retries reached for query: security risk spoolsv.exe open port 49668
+[2025-05-21 11:09:26] [VT] Checking VirusTotal for: chrome.exe
+[2025-05-21 11:09:26] [VT] Error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/search?query=chrome.exe (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023599155ED0>: Failed to resolve 'www.virustotal.com' ([Errno 11001] getaddrinfo failed)"))
+[2025-05-21 11:09:26] [DuckDuckGo] Error on attempt 1: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=chrome.exe): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:28] [DuckDuckGo] Error on attempt 2: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=chrome.exe): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:30] [DuckDuckGo] Error on attempt 3: https://duckduckgo.com RuntimeError: error sending request for url (https://duckduckgo.com/?q=chrome.exe): client error (Connect)
+
+Caused by:
+    0: client error (Connect)
+    1: dns error: No such host is known. (os error 11001)
+    2: No such host is known. (os error 11001)
+[2025-05-21 11:09:30] [DuckDuckGo] Max retries reached for query: chrome.exe
+[2025-05-21 11:43:05] [VT] Checking VirusTotal for: System
+[2025-05-21 11:43:20] [VT] Checking VirusTotal for: Registry
+[2025-05-21 11:43:28] [VT] Checking VirusTotal for: smss.exe
+[2025-05-21 11:43:35] [VT] Checking VirusTotal for: wininit.exe
+[2025-05-21 11:43:42] [VT] Checking VirusTotal for: services.exe
+[2025-05-21 11:43:49] [VT] Checking VirusTotal for: lsass.exe
